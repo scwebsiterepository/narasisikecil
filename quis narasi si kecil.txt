@@ -1,0 +1,59 @@
+Siapakah yang menukar kangkung dengan jagung?;
+A. Ka Kancil dan Ti Tikus;
+B. Ka Kancil dan Dak Bebek;
+C. Dak Bebek dan Ti tikus;
+B. Ka Kancil dan Dak Bebek;
+|
+Siapakah yang menginginkan bunga untuk menghias rumahnya?;
+A. Ela Pelatuk;
+B. Hen Tikus;
+C. Ti Tikus;
+A. Ela Pelatuk;
+|
+Mengapa Ke kelinci tidak memberikan bunga kepada Ela Pelatuk?;
+A. Karena Ke Kelinci pelit;
+B. Karena Ela Pelatuk tidak membawa apa-apa;
+C. Karena Ke Kelinci tidak membutuhkan sendok kayu yang dibawa Ela Pelatuk;
+C. Karena Ke Kelinci tidak membutuhkan sendok kayu yang dibawa Ela Pelatuk;
+|
+Tikus menginginkan ubi yang dibawa Hen Ayam. Apakah Hen Ayam memberikannya kepada Ti Tikus?;
+A. Iya, karena Hen Ayam baik hati;
+B. Iya, karena Hen Ayam menginginkan jamur yang dibawa Ti Tikus;
+C. Tidak, karena Hen Ayam tidak menginginkan jamur yang dibawa Ti Tikus;
+C. Tidak, karena Hen Ayam tidak menginginkan jamur yang dibawa Ti Tikus;
+|
+Siapakah yang mengusulkan alat pembayaran dari kayu kepada kepala desa?;
+A. Ti Tikus;
+B. Ela Pelatuk;
+C. Hen Ayam;
+B. Ela Pelatuk;
+|
+Siapakah yang menggambari uang kayu?;
+A. Sa Angsa;
+B. Ti Tikus;
+C. Hen Ayam;
+A. Sa Angsa;
+|
+Siapakah yang memiliki masalah setelah ada uang kayu yang digambar oleh Sa Angsa?;
+A. Ka Kancil dan Dak Bebek;
+B. Ka Kancil dan Ti Tikus;
+C. Ka Kancil dan Hen Ayam;
+B. Ka Kancil dan Ti Tikus;
+|
+Apa masalah yang dialami oleh Ti tikus?;
+A. Tikus menginginkan kacang tapi dia hanya punya uang bergambar pisang;
+B. Tikus menginginkan pisang tapi dia hanya punya uang bergambar kacang; 
+C. Tikus menginginkan wortel tapi dia hanya punya uang bergambar pisang;
+A. Tikus menginginkan kacang tapi dia hanya punya uang bergambar pisang; 
+|
+Apa masalah yang dihadapi Ka Kancil setelah ada uang kayu?;
+A. Kancil memiliki uang untuk membayar 3 wortel tapi dia hanya butuh 1 wortel;
+B. Kancil memilili uang untuk membayar 4 wortel tapi dia hanya butuh 1 wortel;
+C. Kancil memiliki uang untuk membayar 4 wortel tapi dia hanya butuh 2 wortel;
+C. Kancil memiliki uang untuk membayar 4 wortel tapi dia hanya butuh 2 wortel;
+|
+Apa yang dilakukan oleh Sa Angsa dan Ela Pelatuk untuk mengatasi masalah yang dialami Ka Kancil dan Ti Tikus?;
+A. Mereka membuat lebih banyak gambar kacang, dan wortel;
+B. Mereka membuat lebih banyak gambar ubi, dan wortel;
+C. Mereka membuat uang kayu dengan ukuran berbeda dan memberikan angka 1, 2, 5;
+C. Mereka membuat uang kayu dengan ukuran berbeda dan memberikan angka 1, 2, 5;
